@@ -1,0 +1,168 @@
+{
+    "albums": [
+        {
+            "id": 1,
+            "name": "勇气",
+            "singers": [
+                "梁静茹"
+            ],
+            "price":32.50,
+            "releaseDate":"2001-09-12",
+            "style":["pop","country"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001DEgPu1004bl_1.jpg?max_age=2592000"
+        },
+        {
+            "id": 2,
+            "name": "年少有为",
+            "singers": [
+                "李荣浩"
+            ],
+            "price":62.00,
+            "releaseDate":"2003-11-12",
+            "style":["pop","rock"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004QnEHc3zjC7J_1.jpg?max_age=2592000"
+        },
+        {
+            "id": 3,
+            "name": "当真",
+            "singers": [
+                "蒋蒋",
+                "曲肖冰"
+            ],
+            "price":43.10,
+            "releaseDate":"2013-12-23",
+            "style":["rock"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000RgBrK06p5mH_1.jpg?max_age=2592000"
+        },
+        {
+            "id": 4,
+            "name": "Sugar",
+            "singers": [
+                "Maroon 5"
+            ],
+            "price":21.50,
+            "releaseDate":"2008-05-25",
+            "style":["pop"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001QUxsr2KyrU0_1.jpg?max_age=2592000"
+        },
+        {
+            "id": 5,
+            "name": "浅橘色孤岛 (Live)",
+            "singers": [
+                "戴燕妮",
+                "段艺璇",
+                "宋昕冉",
+                "许馨文",
+                "徐紫茵",
+                "张钰",
+                "左卓"
+            ],
+            "price":12.00,
+            "releaseDate":"2019-08-20",
+            "style":["country","rock"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001AqDHy2gFHum_1.jpg?max_age=2592000"
+        },
+        {
+            "id": 6,
+            "name": "Stuck with U",
+            "singers": [
+                "Ariana Grande",
+                "Justin Bieber"
+            ],
+            "price":86.50,
+            "releaseDate":"2018-04-25",
+            "style":["rock"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004SFY3Y3Cr3q4_1.jpg?max_age=2592000"
+        },
+        {
+            "id": 7,
+            "name": "点歌的人",
+            "singers": [
+                "海来阿木"
+            ],
+            "price":45.00,
+            "releaseDate":"2020-03-15",
+            "style":["blues","rock"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001NvtHt3hFmxE_1.jpg?max_age=2592000"
+        },
+        {
+            "id": 8,
+            "name": "句号",
+            "singers": [
+                "G.E.M. 邓紫棋"
+            ],
+            "price":33.10,
+            "releaseDate":"2021-02-06",
+            "style":["pop"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000049MVh824D7bM_1.jpg?max_age=2592000"
+        },
+        {
+            "id": 9,
+            "name": "后来",
+            "singers": [
+                "刘若英"
+            ],
+            "price":96.50,
+            "releaseDate":"2016-01-22",
+            "style":["blues","pop"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003RFvvb1K3vxF_1.jpg?max_age=2592000"
+        },
+        {
+            "id": 10,
+            "name": "飘洋过海来看你",
+            "singers": [
+                "梁静茹",
+                "艾怡良"
+            ],
+            "price":24.50,
+            "releaseDate":"2011-08-11",
+            "style":["pop","rock"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004CsWWe0Z6gFR_1.jpg?max_age=2592000"
+        },
+        {
+            "id": 11,
+            "name": "平凡之路 (《后会无期》电影主题曲)",
+            "singers": [
+                "朴树"
+            ],
+            "price":56.50,
+            "releaseDate":"2001-09-25",
+            "style":["pop","blues"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002aRnZM0garaC_1.jpg?max_age=2592000"
+        },
+        {
+            "id": 12,
+            "name": "告白气球",
+            "singers": [
+                "周杰伦"
+            ],
+            "price":77.00,
+            "releaseDate":"2005-11-25",
+            "style":["rap"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003RMaRI1iFoYd_1.jpg?max_age=2592000"
+        },
+        {
+            "id": 13,
+            "name": "春娇与志明",
+            "singers": [
+                "街道办GDC",
+                "欧阳耀莹"
+            ],
+            "price":123.50,
+            "releaseDate":"2008-05-25",
+            "style":["pop","jazz"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000lrXyA0MlEEo_1.jpg?max_age=2592000"
+        },
+        {
+            "id": 14,
+            "name": "稻香",
+            "singers": [
+                "周杰伦"
+            ],
+            "price":55.00,
+            "releaseDate":"2018-06-25",
+            "style":["blues","country"],
+            "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000"
+        }
+    ]
+}
