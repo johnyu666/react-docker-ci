@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  front:
+    image: "registry.cn-zhangjiakou.aliyuncs.com/johnyucn525/react-albums-httpd"
+    ports:
+      - "3001:80"
+  back:
+    image: "registry.cn-zhangjiakou.aliyuncs.com/johnyucn525/albums-json-server"
+    ports:
+      - "3000:80"
